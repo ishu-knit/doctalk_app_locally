@@ -1,7 +1,7 @@
-linux 
+linux :- 
+
 install ollama 
 install ollama from -->>"ollama run zephyr"
-
 
   // to run 
   streamlit run locally_faiss.py
